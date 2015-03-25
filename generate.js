@@ -8,9 +8,13 @@ var themePrefix = "./";
 
 // Base file
 output.push({
-    file: "jquery.countdown.min.js",
-    url: url.resolve(urlPrefix, "jquery.countdown.min.js"),
+    file: "jquery.plugin.min.js",
+    url: url.resolve(urlPrefix, "jquery.plugin.min.js"),
     bare: true
+});
+output.push({
+    file: "jquery.countdown.min.js",
+    url: url.resolve(urlPrefix, "jquery.countdown.min.js")
 });
 
 // Lang file
