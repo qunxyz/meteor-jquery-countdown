@@ -16,7 +16,6 @@ output.push({
 // Lang file
 [
     "jquery.countdown-bg.js",
-    "jquery.countdown-bn.js",
     "jquery.countdown-bs.js",
     "jquery.countdown-ca.js",
     "jquery.countdown-cs.js",
