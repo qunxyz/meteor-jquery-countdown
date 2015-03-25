@@ -6,7 +6,7 @@
     },
     {
         "file": "jquery.countdown.min.js",
-        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.plugin.min.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown.min.js",
         "bare": true
     },
     {
