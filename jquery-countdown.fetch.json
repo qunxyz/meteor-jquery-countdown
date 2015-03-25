@@ -1,0 +1,227 @@
+[
+    {
+        "file": "jquery.countdown.min.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.plugin.min.js",
+        "bare": true
+    },
+    {
+        "file": "countdownGlowing.gif",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/countdownGlowing.gif"
+    },
+    {
+        "file": "countdownLED.png",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/countdownLED.png"
+    },
+    {
+        "file": "jquery.countdown-ar.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-ar.js"
+    },
+    {
+        "file": "jquery.countdown-bg.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-bg.js"
+    },
+    {
+        "file": "jquery.countdown-bn.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-bn.js"
+    },
+    {
+        "file": "jquery.countdown-bs.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-bs.js"
+    },
+    {
+        "file": "jquery.countdown-ca.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-ca.js"
+    },
+    {
+        "file": "jquery.countdown-cs.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-cs.js"
+    },
+    {
+        "file": "jquery.countdown-cy.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-cy.js"
+    },
+    {
+        "file": "jquery.countdown-da.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-da.js"
+    },
+    {
+        "file": "jquery.countdown-de.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-de.js"
+    },
+    {
+        "file": "jquery.countdown-el.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-el.js"
+    },
+    {
+        "file": "jquery.countdown-es.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-es.js"
+    },
+    {
+        "file": "jquery.countdown-et.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-et.js"
+    },
+    {
+        "file": "jquery.countdown-fa.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-fa.js"
+    },
+    {
+        "file": "jquery.countdown-fi.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-fi.js"
+    },
+    {
+        "file": "jquery.countdown-fo.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-fo.js"
+    },
+    {
+        "file": "jquery.countdown-fr.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-fr.js"
+    },
+    {
+        "file": "jquery.countdown-gl.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-gl.js"
+    },
+    {
+        "file": "jquery.countdown-gu.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-gu.js"
+    },
+    {
+        "file": "jquery.countdown-he.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-he.js"
+    },
+    {
+        "file": "jquery.countdown-hr.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-hr.js"
+    },
+    {
+        "file": "jquery.countdown-hu.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-hu.js"
+    },
+    {
+        "file": "jquery.countdown-hy.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-hy.js"
+    },
+    {
+        "file": "jquery.countdown-id.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-id.js"
+    },
+    {
+        "file": "jquery.countdown-is.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-is.js"
+    },
+    {
+        "file": "jquery.countdown-it.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-it.js"
+    },
+    {
+        "file": "jquery.countdown-ja.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-ja.js"
+    },
+    {
+        "file": "jquery.countdown-kn.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-kn.js"
+    },
+    {
+        "file": "jquery.countdown-ko.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-ko.js"
+    },
+    {
+        "file": "jquery.countdown-lt.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-lt.js"
+    },
+    {
+        "file": "jquery.countdown-lv.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-lv.js"
+    },
+    {
+        "file": "jquery.countdown-ml.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-ml.js"
+    },
+    {
+        "file": "jquery.countdown-ms.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-ms.js"
+    },
+    {
+        "file": "jquery.countdown-my.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-my.js"
+    },
+    {
+        "file": "jquery.countdown-nb.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-nb.js"
+    },
+    {
+        "file": "jquery.countdown-nl.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-nl.js"
+    },
+    {
+        "file": "jquery.countdown-pl.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-pl.js"
+    },
+    {
+        "file": "jquery.countdown-pt-BR.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-pt-BR.js"
+    },
+    {
+        "file": "jquery.countdown-ro.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-ro.js"
+    },
+    {
+        "file": "jquery.countdown-ru.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-ru.js"
+    },
+    {
+        "file": "jquery.countdown-sk.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-sk.js"
+    },
+    {
+        "file": "jquery.countdown-sl.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-sl.js"
+    },
+    {
+        "file": "jquery.countdown-sq.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-sq.js"
+    },
+    {
+        "file": "jquery.countdown-sr-SR.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-sr-SR.js"
+    },
+    {
+        "file": "jquery.countdown-sr.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-sr.js"
+    },
+    {
+        "file": "jquery.countdown-sv.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-sv.js"
+    },
+    {
+        "file": "jquery.countdown-th.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-th.js"
+    },
+    {
+        "file": "jquery.countdown-tr.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-tr.js"
+    },
+    {
+        "file": "jquery.countdown-uk.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-uk.js"
+    },
+    {
+        "file": "jquery.countdown-ur.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-ur.js"
+    },
+    {
+        "file": "jquery.countdown-uz.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-uz.js"
+    },
+    {
+        "file": "jquery.countdown-vi.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-vi.js"
+    },
+    {
+        "file": "jquery.countdown-zh-CN.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-zh-CN.js"
+    },
+    {
+        "file": "jquery.countdown-zh-TW.js",
+        "url": "https://raw.githubusercontent.com/kbwood/countdown/master/jquery.countdown-zh-TW.js"
+    }
+]
