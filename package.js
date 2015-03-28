@@ -1,7 +1,7 @@
 Package.describe({
   name: "jackyqiu:meteor-jquery-countdown",
   summary: "Thank kbwood. This plugin sets a div or span to show a countdown to a given time.",
-  version: "3.6.1",
+  version: "2.0.4",
   git: "https://github.com/qunxyz/meteor-jquery-countdown.git"
 });
 
